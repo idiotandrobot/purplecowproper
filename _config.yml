@@ -12,9 +12,9 @@ social:
   facebook: purplecowproperties
   linkedin: purple-cow-properties
 
-url: http://idiotandrobot.com/
+url: http://idiotandrobot.com/purplecowproper
 
-baseurl: "purplecowproper"
+baseurl: ""
 
 collections:
   testimonials:
